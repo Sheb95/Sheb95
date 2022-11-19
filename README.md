@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=5014&color=772B9C&vCenter=true&lines=Hello+and+Welcome+to+My+GitHub+Repo!)](https://git.io/typing-svg) 
+# Hello there!
 
 It is evident that you are on this profile to check out how amazing I am 👀. Well, listen here buddy, this git profile is more than a place for me to show off my code. This profile is going to take you on a magical journey of growth 🌱 as I develop into a full-stack engineer. So buckle up and enjoy the ride 🌠!
 
